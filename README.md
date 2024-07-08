@@ -1,6 +1,6 @@
 # Тестовый сайт
 
-## Иванов Иван Иванович, младший инженер-программист :joy:
+## Иванов Иван Иванович, младший инженер-программист
 
 ![](https://i0.wp.com/picjumbo.com/wp-content/uploads/smiling-senior-business-man-portrait-free-photo.jpg?w=800&quality=70)
 
